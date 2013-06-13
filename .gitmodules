@@ -1,3 +1,6 @@
 [submodule "cookbook-elasticsearch"]
 	path = cookbook-elasticsearch
 	url = git@github.com:jdar/cookbook-elasticsearch.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = git@github.com:jdar/cookbook-elasticsearch.git
